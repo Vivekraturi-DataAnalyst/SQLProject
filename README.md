@@ -1,6 +1,6 @@
 <div align="center" style="line-height: 1.4;">
 
-<h1>🦈 Boat lifestyle – SQL Project
+<h1>⚡ Boat lifestyle – SQL Project
 </h1>
 
 <p style="font-size: 40px; font-weight: bold; margin: 6px 0 0 0;">
